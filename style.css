@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica;
+    color: white;
+    background-color: #000;
+}
+
+.main {
+    max-width: 1000px;
+    margin: 4rem auto;
+    padding: 0 2rem;
+}
+
+.main div {
+    width: 100%;
+}
+
+.logo {
+    margin-top: 5rem;
+}
+
+.logo img {
+    width: 80%;
+}
+
+.links {
+    margin-top: 40px;
+    font-weight: 800;
+}
+
+.links div {
+    margin: 10px 0;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.links .active {
+    text-decoration: underline;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
